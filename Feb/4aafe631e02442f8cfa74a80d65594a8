@@ -1,0 +1,57 @@
+Mining software solutions specialist Micromine is not only embracing
+the concept of automation but is taking it to new levels through research and
+pilot test trial studies focused on bringing machine learning/artificial
+intelligence to the fore. The ability for machines to learn through
+automated data collection and analysis takes the concept of automation to new
+levels and is an area Micromine is heavily focusing on. Through advancements to its fleet management
+and mine control solution software Pitram, the company has not only determined
+machine learning to be possible, but is test trialling its success in an
+underground application. “The majority of yellow metal OEMs do offer built-in
+machine software that offers automation benefits such as driverless trucks.
+Because we are independent of these OEMs we need to look at innovative ways to
+differentiate ourselves in the market and machine learning is where we are
+focusing a lot of our energies,” says Pitram product strategy manager GarethDean. By capturing certain data sources from for
+example a video camera attached to a piece of equipment, in this case an
+underground loader, Micromine has through research and development built a model which can analyse
+the loader’s performance and then determine how best to adjust the operating
+parameters of the loader to optimise its performance efficiency – without human
+interaction. Once introduced officially into the market in
+early 2019, this new Pitram model will look to consider all operating
+procedures connected to the loader – such as the most suitable machine, the
+best route to move between points, speed and time, load bucket volumes, number
+of loads, and a great number more specifics as well. “This will contribute significantly to the
+overall optimisation of underground mines which we believe has a lot of room
+for improvement.” This initiative is also part of a greater effort to support and nurture the next generation of software developers. The initial concept was done in collaboration with University of Western Australia (UWA) and five Masters students who took on the study, which started last year. On the back of their success Micromine has employed one of the students to work on machine learning projects full time, improve the initiatives already underway and expand on areas of implementation. Test trials for loading applications
+specifically are being conducted in Australia, Mongolia, Russia and the United
+States and Dean is eager to explore the opportunities this technology offers
+the South African mining industry as well. While the test trials and models are
+based on a number of different mining operations, the system will best deliver
+when catered to each specific operation it is incorporated into. And because the vision for machine learning is
+gaining momentum within the company, Dean and his Pitram team are already
+evaluating the potential to optimise the software further by incorporating
+on-board sensors into the model. In September this year Micromine initiated a new machine
+learning project/challenge, titled “Automated value recognition from an image
+of an LCD display”, which is also being undertaken by third-year students from
+the UWA Computer Science Faculty. The “Automated value recognition from an image
+of an LCD display” challenge is centred around streamlining the integration
+between geological data collection devices and geological data management
+software. An important function for geologists is capturing and recording
+geological data from field using various devices and readers such as scales,
+hardness testers, GPS, barcode readers, thermometers and magnetic
+susceptibility readers. More often than not, geologists have to submit this
+data manually into geological software solutions such as Geobank and Geobank
+Mobile. The hypothesis is that a solution could be
+developed where a camera takes an image of the LCD screen of a measuring
+instrument and the visual cues, such as the edges of the display, can be used
+to orientate and extract a value or values from the image. These values can
+then be used directly by the software, making the manual transcription no
+longer necessary. Just as a human observer can accurately read and record
+values from a display, a system could be developed to do the same. Participating students work in groups and have
+12 weeks to submit a completed solution. The project follows an agile
+methodology, with Micromine’s Geobank technical product manager Derek Vincent evaluating the
+progress of the project at regular intervals. “Finding ways to automate the process of
+on-boarding third-party devices to Geobank has the potential to save
+significant amounts of development work”. The objective of the project is a
+proof-of-concept for using existing technologies to extract values from images
+of an LCD display of a known device and for using machine learning to learn,
+then accurately extract values from new instrument displays.
