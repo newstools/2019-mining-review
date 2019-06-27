@@ -1,0 +1,71 @@
+While South Africa’s mining industry has started incorporating automation into its operating and processing systems, the adoption of these technologies is generally being undertaken in silos. The benefits of automation however can only truly be felt if integrated as a single system across an entire mine. This approach remains the drive and focus for industrial automation architecture specialist Beckhoff Automation,which continues to enhance its solution range for industrial applications to showcase the widespread advantages when transitioning mines into a fully automated future, writes LAURA CORNISH. This article first appeared in Mining Review Africa Issue 6, 2019
+Read
+the full digimag here or subscribe to receive a print copy here Within the larger process markets, the global mining industry has shown significant uptake in automation technologies. As a result, mining companies in regions such as Australia are today operating multiple mines remotely, resulting in lower operating costs and increased productivity. “The mining sector is currently being driven by the ability
+to reduce costs while still enhancing its operating performance and the only
+guaranteed approach to realising these benefits is through automation,” says
+Kenneth MᶜPherson, MD of Beckhoff Automation’s sub-Saharan
+African subsidiary. For now, there has not been a massive uptake in fully
+automating mining operations in South Africa, but MᶜPherson
+believes the industry will naturally progress towards doing so as the need to
+remain competitive increases and the pressures of maintaining a profitable mine
+escalate. “There has been an uptake in the demand to automate existing
+systems and certain areas within mining operations – but predominantly in
+hardware platforms. This marks the beginning of building more autonomous mines,
+and so we are preparing for this uptake.” To ensure it remains at the forefront of assisting the South
+African mining industry build towards a more autonomous future, MᶜPherson highlights one of the company’s core
+local strengths: “We are the only industrial PC supplier that can
+service our systems through our local service centre which stocks a wide
+variety of common components.” However, as Beckhoff Automation prepares to benefit from the
+growing interest in automation solutions from the industrial process-driven sectors,
+including mining, it has added a number of new solutions to its portfolio.
+Introduced and officially launched at the Hannover Messe Automation Fair in
+Germany three years ago, MᶜPherson says the benefits they offer
+the mining sector are significant. TwinCAT Machine Learning Beckhoff Automation’s new machine learning (ML) solution is
+designed to deliver predictive/preventative maintenance functionality (based on
+condition monitoring and anomaly detection) for machinery. “The concept of predictive maintenance is not new, but still
+has room for improvement. The fundamental idea with our ML solution no longer
+follows the classic engineering route of designing solutions for specific tasks
+based on algorithms using historic modelling and measurements, but enables the
+desired artificial intelligent (AI) algorithms to be learned from model process
+data instead,” the MD outlines. He continues: “Simply put, most systems are designed
+to assume certain maintenance procedures based on their predicted performance
+and historical knowledge, which therefore cannot effectively predict a
+breakdown or failure. Our system is building algorithms, based on a machine’s
+performance, in real-time which will effectively enable operators to anticipate
+potential failures before they happen. The results are substantially more
+accurate.” The ML solution can be
+seamlessly integrated into Beckhoff Automation’s TwinCAT 3. Building on
+established standards, it brings to machine learning applications the
+advantages of system openness familiar from PC-based control. TwinCat machine learning uses the
+Open Neural Network Exchange (ONNX) format for data collection, various proven
+TwinCAT products are available such as TC3 Database Server TF6420 or
+TC3 Scope Server TF3300.
+Training is performed in established frameworks such as MATLAB Simulink,
+TensorFlow, PyTorch, SciKit-learn, a.o. A trained model can be easily imported
+into the TwinCAT runtime in a standardised format (ONNX). TwinCAT Vision TwinCAT Vision, an
+integrated image processing solution, adds image processing to a universal
+control platform that incorporates PLC, motion control, robotics, high-end
+measurement technology, IoT, machine learning and HMI. Automatic detection,
+traceability and quality control of products are becoming increasingly
+important tasks across all stages of production. These trends are aided by
+inexpensive cameras and high-performance computers, which enable the use of
+image processing technology in more areas than ever before. This simplifies
+engineering significantly in that it allows camera configuration and
+programming tasks to be carried out in the familiar PLC environment. In
+addition, all control functions related to image processing can be synchronised
+in the runtime system precisely, in real time. Latency is eliminated,
+and the image processing algorithms execute in real time. “TwinCAT Vision
+enhances our ability to monitor machine performance in a real-time environment
+and in so doing is a critical component of effectively delivering on our
+machine learning algorithms and capabilities,” MᶜPherson points out. TwinCAT Analytics The third and final
+leg required for any thorough and real-time preventative maintenance system is
+a tool that enables effective collection and management of data. TwinCAT
+Analytics software includes online and offline condition analysis,
+predictive maintenance, pattern recognition, machine optimisation and
+long-term data archival. “Monitoring multiple
+machines on a second-by-second basis is only effective if the information
+generated from that machine can be controlled considering the volume of data
+being generated is substantial,” MᶜPherson notes. Beckhoff Automation’s TwinCAT Analytics
+is capable of handling large quantities of data ‘in the cloud’ and provides
+platform that can easily collate and interpret the data into an interface that can
+be used on PC or any mobile device. The entire preventative maintenance package is a major step and breakthrough in automation techniques and one that can easily be built into an existing mining operation in South Africa. This alone can revolutionise production performance and deliver a sustainable industry for future generations.
